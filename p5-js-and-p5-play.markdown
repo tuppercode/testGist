@@ -2,6 +2,6 @@ p5.js and p5.play
 -----------------
 
 
-A [Pen](http://codepen.io/tuppercode/pen/JWNLxp) by [tuppercode](http://codepen.io/tuppercode) on [CodePen](http://codepen.io/).
+A [Pen](https://codepen.io/tuppercode/pen/JWNLxp) by [tuppercode](http://codepen.io/tuppercode) on [CodePen](http://codepen.io/).
 
-[License](http://codepen.io/tuppercode/pen/JWNLxp/license).
+[License](https://codepen.io/tuppercode/pen/JWNLxp/license).
